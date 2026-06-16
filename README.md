@@ -22,5 +22,5 @@ Redux · Context API · Tailwind CSS · Jest · Git · Fastlane · Sentry · RES
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-sosa-reactnative/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sosagonzales0409-max)
 
-📍 Tuxpan, Veracruz · 🇲🇽 · Disponible para trabajo remotoHi there 👋
+📍 Tuxpan, Veracruz · 🇲🇽 · Disponible para trabajo remoto
 
