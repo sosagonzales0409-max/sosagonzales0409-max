@@ -1,26 +1,39 @@
- # 👋 Hola, soy Luis Sosa
+# Luis Sosa
 
-**Desarrollador Frontend & React Native** con 3 años de experiencia construyendo aplicaciones móviles y web. Apasionado por crear experiencias de usuario sólidas, bien probadas y con rendimiento optimizado.
+**Frontend Developer · React Native & React**
+Tuxpan, Veracruz, México · Disponible para trabajo remoto
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-sosagonzales0409--max.github.io-222222?style=flat&logo=githubpages&logoColor=white)](https://sosagonzales0409-max.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-sosa-reactnative/)
 
 ---
 
-### 🛠 Stack
+## Sobre mí
 
-React Native · React · TypeScript · JavaScript · Firebase (Auth, FCM, Firestore, Storage)
-Redux · Context API · Tailwind CSS · Jest · Git · Fastlane · Sentry · REST APIs
+Desarrollador con 3+ años de experiencia construyendo aplicaciones móviles con React Native y aplicaciones web con React. Opero una plataforma de 40+ apps publicadas en Google Play y App Store, y automaticé su despliegue con CI/CD. Me enfoco en aplicaciones sólidas, probadas y con buen rendimiento.
 
-### 📌 Proyectos destacados
+Conoce más de mi trabajo y experiencia en mi [portafolio](https://sosagonzales0409-max.github.io).
+
+## Stack
+
+| Área | Tecnologías |
+|---|---|
+| Móvil | React Native, Expo, React Navigation, Redux, Context API |
+| Web | React, TypeScript, JavaScript, Tailwind CSS, React Router, i18next |
+| Servicios | Firebase (Auth, Firestore, FCM, Storage), REST APIs |
+| Calidad y DevOps | Jest, Vitest, Fastlane, Bitbucket Pipelines, Xcode Cloud, Sentry, Crashlytics, Git |
+
+## Proyectos destacados
 
 | Proyecto | Stack | Descripción |
 |---|---|---|
-| [TaskFlow](https://taskflow-lake-five.vercel.app) | React + TS + Tailwind + Firebase | App web gestión de tareas con kanban, i18n, modo oscuro |
-| [RemindMe](https://github.com/sosagonzales0409-max/Remindme) | React Native + Firebase + FCM | App recordatorios con notificaciones push y locales |
-| [DailyNews](https://github.com/sosagonzales0409-max/NewsApp) | React Native + GNews API | Lector noticias con scroll infinito, skeleton loading, 18 tests |
+| [TaskFlow](https://github.com/sosagonzales0409-max/taskflow) · [demo](https://taskflow-lake-five.vercel.app) | React, TypeScript, Tailwind, Firebase | Gestión de tareas tipo kanban con autenticación, i18n y modo oscuro |
+| [RemindMe](https://github.com/sosagonzales0409-max/Remindme) | React Native, Firebase, FCM, Notifee | Recordatorios con notificaciones locales programadas y sincronización en tiempo real |
+| [NewsApp](https://github.com/sosagonzales0409-max/NewsApp) | React Native, GNews API | Lector de noticias con scroll infinito, skeleton loading y 18 pruebas unitarias |
+| App de punto de venta e inventario | React Native, TypeScript | Ventas, inventario y reportes para tiendas locales (en desarrollo) |
 
-### 📫 Contacto
+## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-sosa-reactnative/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sosagonzales0409-max)
-
-📍 Tuxpan, Veracruz · 🇲🇽 · Disponible para trabajo remoto
-
+- Portafolio: [sosagonzales0409-max.github.io](https://sosagonzales0409-max.github.io)
+- LinkedIn: [luis-sosa-reactnative](https://www.linkedin.com/in/luis-sosa-reactnative/)
+- Correo: sosagonzales0409@gmail.com
