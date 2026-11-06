@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="Credencial de desarrollador de Luis Alberto Sosa González">
+  <title>Luis Alberto Sosa González · Frontend Developer | React Native &amp; React</title>
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="878" height="298" rx="18"/></clipPath>
+  </defs>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <rect x="1" y="1" width="878" height="298" rx="18" fill="#FFFFFF" stroke="#D5DCE8" stroke-width="2"/>
+    <g clip-path="url(#card)">
+      <rect x="0" y="0" width="880" height="48" fill="#2F5BEA"/>
+    </g>
+    <text x="32" y="30" font-size="13" font-weight="700" letter-spacing="2" fill="#FFFFFF">CREDENCIAL DE DESARROLLADOR</text>
+    <text x="848" y="30" font-size="13" text-anchor="end" fill="#FFFFFF">Vigencia: 2023 a la fecha</text>
+
+    <rect x="32" y="80" width="112" height="136" rx="12" fill="#E3EAFD" stroke="#D5DCE8"/>
+    <text x="88" y="160" font-size="40" font-weight="800" text-anchor="middle" fill="#2F5BEA">LS</text>
+
+    <text x="176" y="102" font-size="27" font-weight="800" fill="#14213D">Luis Alberto Sosa González</text>
+    <text x="176" y="130" font-size="16" font-weight="600" fill="#2347C2">Frontend Developer | React Native &amp; React</text>
+
+    <g font-size="14">
+      <text x="176" y="170" fill="#56627C">Experiencia</text>
+      <text x="296" y="170" fill="#14213D" font-weight="600">3+ años</text>
+      <text x="176" y="196" fill="#56627C">Plataforma</text>
+      <text x="296" y="196" fill="#14213D" font-weight="600">40+ apps en Google Play y App Store</text>
+      <text x="176" y="222" fill="#56627C">Despliegue</text>
+      <text x="296" y="222" fill="#14213D" font-weight="600">De 3-4 días a ~7 h con CI/CD</text>
+      <text x="176" y="248" fill="#56627C">Base</text>
+      <text x="296" y="248" fill="#14213D" font-weight="600">Tuxpan, Veracruz · trabajo remoto</text>
+    </g>
+
+    <line x1="680" y1="80" x2="680" y2="256" stroke="#D5DCE8" stroke-width="2" stroke-dasharray="4 6"/>
+    <circle cx="764" cy="150" r="52" fill="#F2B705"/>
+    <circle cx="764" cy="150" r="44" fill="none" stroke="#3B2C00" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="3 4"/>
+    <path d="m744 146 14 14 26-28" fill="none" stroke="#3B2C00" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="764" y="236" font-size="14" font-weight="700" letter-spacing="3" text-anchor="middle" fill="#56627C">VIGENTE</text>
+  </g>
+</svg>

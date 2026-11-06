@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="204" viewBox="0 0 420 204" role="img" aria-label="JustiPrecio: costeo de recetas y precios de venta, prueba interna en Google Play">
+  <title>JustiPrecio</title>
+  <defs><clipPath id="c"><rect x="1" y="1" width="418" height="202" rx="14"/></clipPath></defs>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <rect x="1" y="1" width="418" height="202" rx="14" fill="#152038" stroke="#27344F" stroke-width="2"/>
+    <rect x="0" y="0" width="420" height="6" fill="#7C9BFF" clip-path="url(#c)"/>
+    <text x="22" y="44" font-size="20" font-weight="800" fill="#E9EEF7">JustiPrecio</text>
+    <rect x="194" y="26" width="206" height="24" rx="12" fill="#F5C542"/>
+    <text x="297" y="42.5" font-size="12" font-weight="700" text-anchor="middle" fill="#2B2000">Prueba interna · Google Play</text>
+    <text x="22" y="68" font-size="11" font-weight="700" letter-spacing="2" fill="#9DA9C0">MOBILE</text>
+    <g font-size="13.5" fill="#C4CDDE">
+      <text x="22" y="94">App offline-first para costear recetas, calcular</text>
+      <text x="22" y="112">precios de venta y planear compras. Suscripción</text>
+      <text x="22" y="130">Pro y 125 pruebas automatizadas.</text>
+    </g>
+    <text x="22" y="158" font-size="12" font-weight="600" fill="#A4BAFF">Expo · TypeScript · SQLite · Drizzle · RevenueCat</text>
+    <line x1="22" y1="172" x2="398" y2="172" stroke="#27344F"/>
+    <text x="22" y="191" font-size="12" fill="#9DA9C0">Código privado · disponible bajo solicitud</text>
+  </g>
+</svg>
