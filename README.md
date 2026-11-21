@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://sosadev.online"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-sosadev.online-2F5BEA?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/luis-sosa-reactnative/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luis--sosa--reactnative-14213D?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sosagonzales0409@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-Escríbeme-F2B705?style=for-the-badge&logo=gmail&logoColor=3B2C00&labelColor=F2B705"></a>
+  <a href="mailto:sosadevmx@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-Escríbeme-F2B705?style=for-the-badge&logo=gmail&logoColor=3B2C00&labelColor=F2B705"></a>
 </p>
 
 ## Sobre mí
@@ -63,13 +63,13 @@ Desarrollo apps offline-first con Expo, TypeScript y SQLite, y aplicaciones web 
 ## Proyectos
 
 <p align="center">
-  <a href="https://sosadev.online/#proyectos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/ludyshop-oscuro.svg"><img alt="LudyShop: punto de venta offline-first, prueba cerrada en Google Play" src="assets/proyectos/ludyshop-claro.svg" width="49%"></picture></a>
+  <a href="https://github.com/sosagonzales0409-max/LudyShop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/ludyshop-oscuro.svg"><img alt="LudyShop: punto de venta offline-first, prueba cerrada en Google Play" src="assets/proyectos/ludyshop-claro.svg" width="49%"></picture></a>
   <a href="https://sosadev.online/#proyectos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/justiprecio-oscuro.svg"><img alt="JustiPrecio: costeo de recetas y precios de venta, prueba interna en Google Play" src="assets/proyectos/justiprecio-claro.svg" width="49%"></picture></a>
   <a href="https://github.com/sosagonzales0409-max/taskflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/taskflow-oscuro.svg"><img alt="TaskFlow: gestión de tareas tipo Kanban, en línea" src="assets/proyectos/taskflow-claro.svg" width="49%"></picture></a>
   <a href="https://github.com/sosagonzales0409-max/Remindme"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/remindme-oscuro.svg"><img alt="RemindMe: app de recordatorios, repositorio" src="assets/proyectos/remindme-claro.svg" width="49%"></picture></a>
   <a href="https://github.com/sosagonzales0409-max/NewsApp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/proyectos/dailynews-oscuro.svg"><img alt="DailyNews: lector de noticias, repositorio" src="assets/proyectos/dailynews-claro.svg" width="49%"></picture></a>
 </p>
 
-<p align="center"><sub>El código de LudyShop y JustiPrecio es privado y está disponible para revisión técnica bajo solicitud. Demo de TaskFlow: <a href="https://taskflow-lake-five.vercel.app">taskflow-lake-five.vercel.app</a></sub></p>
+<p align="center"><sub>El código de JustiPrecio es privado y está disponible para revisión técnica bajo solicitud. Demo de TaskFlow: <a href="https://taskflow-lake-five.vercel.app">taskflow-lake-five.vercel.app</a></sub></p>
 
 <p align="center">Más detalle de mi experiencia y proyectos en <a href="https://sosadev.online"><b>sosadev.online</b></a></p>
